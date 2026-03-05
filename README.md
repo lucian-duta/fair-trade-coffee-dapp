@@ -21,3 +21,5 @@ A local client server will be launched
 Go to `http://localhost:3000/` in your browser
 
 You also need to have a metamask wallet set up in your browser
+
+Made by me
